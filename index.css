@@ -1,0 +1,38 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+body{
+ background-color:rgb(170, 170, 170);
+}
+form{
+  display: flex;
+  flex-direction: column;
+
+}
+.signuppage{
+   margin:10px 480px;
+   font-size:25px;
+}
+.signuppage1{
+    display: flex;
+    margin-left:480px;
+    width:300px;
+    font-size:20px;
+}
+h1{
+  margin-left:600px;
+  margin-top:40px;
+  margin-bottom:30px;
+}
+button{
+  margin-left:478px;
+  width:150px;
+  height: 40px;
+  margin-top:30px;
+}
+#wpass{
+  margin-left: 478px;
+  color: red;
+  font-size: 20px;
+}
